@@ -1,0 +1,6 @@
+#############---SELECTION SORTING--#############
+Before Sorting:
+3 43 56 17 13 5 87 103 121 9
+After Sorting:
+3 5 9 13 17 43 56 87 103 121
+Complexty is O(n^2)

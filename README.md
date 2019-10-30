@@ -1,4 +1,4 @@
-selection sort
-insertion sort
-quick sort
-merge sort
+selection sort\ln
+insertion sort\ln
+quick sort\ln
+merge sort\ln
